@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lokfort
+- 👋 Hi, I’m Olga
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, CSS, JS
 
