@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lokfort
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m currently learning HTML, CSS, JS
 
 <!---
 Lokfort/Lokfort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
